@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "巨大なる犬が世界を制圧するだろう",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T10:19:08.063102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "巨大なる犬が世界を制圧するだろう",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_巨大なる犬が世界を制圧するだろう_ウォルピスカーター.txt"
+    }
+  ]
+}
